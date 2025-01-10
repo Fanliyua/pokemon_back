@@ -3,7 +3,7 @@ name: Build and Push Node.js Docker Image to Docker Hub
 on:
   push:
     branches:
-      - main  # 每次将更改推送到 main 分支时触发
+      - main  # 每次将更改推送到 main 分支时触
 
 jobs:
   build:
